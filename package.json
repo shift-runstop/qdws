@@ -1,0 +1,24 @@
+{
+  "name": "qdws",
+  "version": "1.0.0",
+  "description": "Quick and Dirty Web-Scraper",
+  "main": "index.js",
+  "scripts": {
+	"start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shift-runstop/qdws.git"
+  },
+  "author": "^▟",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shift-runstop/qdws/issues"
+  },
+  "homepage": "https://github.com/shift-runstop/qdws#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1"
+  }
+}
